@@ -1,5 +1,4 @@
 const form = document.getElementById('comparation-form')
-// const submitButton = document.getElementById('submitButton')
 const value_a = document.getElementById('value_A')
 const value_b = document.getElementById('value_B')
 
